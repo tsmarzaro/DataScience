@@ -6,8 +6,6 @@
 <sub></sub>
 
 **Links:**
-
-**Links:**
 * [LinkedIn](https://www.linkedin.com/in/tsmarzaro/)
 * [Medium]()
 
